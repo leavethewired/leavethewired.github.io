@@ -3,7 +3,7 @@ html, body {
   padding:0;
   height: 100%;
   overflow: hidden;
-  cursor: url("cursors/arrow.png"), default;
+  cursor: url("assets/arrow.png"), default;
   -webkit-user-select: none;
   -khtml-user-select: none;
   -moz-user-select: none;
@@ -68,7 +68,7 @@ html, body {
   color: blue;
   background-color: transparent;
   text-decoration: none;
-  cursor: url("cursors/link.png"), auto;
+  cursor: url("assets/link.png"), auto;
 }
 
 #lain .content a:visited {
@@ -81,7 +81,7 @@ html, body {
   color: pink;
   background-color: transparent;
   text-decoration: underline;
-  cursor: url("cursors/link.png"), auto;
+  cursor: url("assets/link.png"), auto;
 }
 
 #lain .content a:active {
